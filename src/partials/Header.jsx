@@ -31,7 +31,44 @@ function Header() {
                     <stop stopColor="#338CF5" offset="100%" />
                   </radialGradient>
                 </defs>
-                <rect width="32" height="32" rx="16" fill="url(#header-logo)" fillRule="nonzero" />
+                <svg
+      xmlns="http://www.w3.org/2000/svg"
+      // xmlnsbx="https://boxy-svg.com"
+      viewBox="8.077 7.778 481.005 481.005"
+    >
+      <defs>
+        <style bxfonts="Basic">
+          @import
+          url(https://fonts.googleapis.com/css2?family=Basic%3Aital%2Cwght%400%2C400&amp;display=swap);
+        </style>
+      </defs>
+      <ellipse
+        cx="244.234"
+        cy="252.626"
+        fill="#F39090"
+        rx="236.157"
+        ry="236.157"
+      ></ellipse>
+      <ellipse
+        cx="260.169"
+        cy="236.691"
+        fill="#FFF"
+        paintOrder="fill"
+        rx="228.913"
+        ry="228.913"
+      ></ellipse>
+      <text
+        style={{ whiteSpace: "pre" }}
+        x="95.183"
+        y="323.267"
+        fill="#333"
+        fontFamily="Basic"
+        fontSize="203.5"
+      >
+        OW
+      </text>
+    </svg>
+                {/* <rect width="32" height="32" rx="16" fill="url(#header-logo)" fillRule="nonzero" /> */}
               </svg>
             </Link>
           </div>
