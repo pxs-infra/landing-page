@@ -1,11 +1,11 @@
 function OverlayCircles() {
   return (
-    <div className="absolute top-10 right-0 pointer-events-none w-full h-full">
+    <div className="absolute top-20 md:top-10 lg:top-5 left-0 right-0 pointer-events-none w-full">
       <svg
         width="100%"
         height="100%"
         // sm:height="400"
-        viewBox="0 0 1360 900"
+        viewBox="0 0 1400 1270"
         xmlns="http://www.w3.org/2000/svg"
       >
         <g
