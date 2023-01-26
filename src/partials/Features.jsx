@@ -36,7 +36,7 @@ function Features() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h1 className="h2 mb-4">Explore the solutions</h1>
+            <h1 className="h2 mb-4 font-unbounded">Explore the solutions</h1>
             <p className="text-xl text-gray-600">There are many benefits to using our platform.</p>
           </div>
 
