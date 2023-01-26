@@ -1,6 +1,6 @@
 function OverlayCircles() {
   return (
-    <div className="absolute top-20 md:top-10 lg:top-5 left-0 right-0 pointer-events-none w-full">
+    <div className="absolute top-20 md:top-16 lg:top-12 pointer-events-none w-full max-w-7xl left-1/2 transform -translate-x-1/2">
       <svg
         width="100%"
         height="100%"

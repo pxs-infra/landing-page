@@ -97,7 +97,7 @@ function Header() {
               {/* </svg> */}
             </Link>
           </div>
-          <h1 className="text-2xl hidden md:block">oberon</h1>
+          <h1 className="text-2xl hidden sm:block">oberon</h1>
           {/* Site navigation */}
           <nav className="flex flex-grow">
             <ul className="flex flex-grow justify-end flex-wrap items-center">
