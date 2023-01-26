@@ -2,6 +2,9 @@ module.exports = {
   content: ["./index.html", "./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
     extend: {
+      backgroundImage: {
+        circles_bg: "url('../src/images/black-bg-circles.svg')",
+      },
       colors: {
         gray: {
           100: "#FBFBFB",

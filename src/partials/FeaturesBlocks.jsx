@@ -103,8 +103,8 @@ function FeaturesBlocks() {
                 Discovery Session
               </h4>
               <p className="text-gray-600 text-center">
-                Our team will invite you to the space and we will discuss the
-                details about project.
+                Discussion of a project could be right in the space or other
+                VoIP tools.
               </p>
             </div>
 
